@@ -73,7 +73,7 @@ This setup allows the ESP32 to control both the direction and speed of the DC mo
    - Connect external 12V power supply to VCC2 (motor supply)
    - Ensure common ground between ESP32, L293D, and power supply
 
-![Physical Image](https://github.com/PrateekRaj8125/Arduino-Beginner-Project-Codes/blob/main/assets/physical_image.jpg?raw=true)
+![Physical Image](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/blob/main/assets/physical_image.jpg?raw=true)
 
 ### Sinric Pro Account Setup
 1. Create a Sinric Pro account
@@ -88,7 +88,7 @@ This setup allows the ESP32 to control both the direction and speed of the DC mo
 3. Test voice commands for device control
 
 ## Code Implementation
-Use the file available in Repository name [IoT Project](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/blob/main/assets/physical_image.jpg?raw=true) for the code and implement them in the **Arduino IDE
+Use the file available in Repository name [IoT Project](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/tree/main/IoT_Project) for the code and implement them in the **Arduino IDE
 **
 
 ## Results
