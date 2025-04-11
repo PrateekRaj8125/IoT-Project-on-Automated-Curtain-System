@@ -47,7 +47,7 @@ Google Assistant serves as the user interface for our system, accepting voice co
 ## Circuit Diagram
 The circuit connections, based on the provided image, show:
 
-![TinkerCAD Image of Circuit Designed](https://github.com/PrateekRaj8125/Arduino-Beginner-Project-Codes/blob/main/assets/Funky%20Allis-Kieran.png?raw=true)
+![TinkerCAD Image of Circuit Designed](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/blob/main/assets/Funky%20Allis-Kieran.png?raw=true)
 
 1. ESP32 connected to the L293D motor driver:
    - ESP32 GPIO pins connect to the IN1 and IN2 pins of the L293D for direction control
@@ -80,7 +80,7 @@ This setup allows the ESP32 to control both the direction and speed of the DC mo
 2. Add a new device (select "Switch" type for simple on/off control)
 3. Note down the APP_KEY, APP_SECRET, and DEVICE_ID for use in the code
 
-![Sinric Pro](https://github.com/PrateekRaj8125/Arduino-Beginner-Project-Codes/blob/main/assets/Sinric_Pro.png?raw=true)
+![Sinric Pro](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/blob/main/assets/Sinric_Pro.png?raw=true)
 
 ### Google Assistant Setup
 1. Link Sinric Pro to Google Assistant
@@ -88,7 +88,7 @@ This setup allows the ESP32 to control both the direction and speed of the DC mo
 3. Test voice commands for device control
 
 ## Code Implementation
-Use the file available in Repository name [IoT Project](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/tree/main/IoT_Project) for the code and implement them in the **Arduino IDE
+Use the file available in Repository name [IoT Project](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/blob/main/assets/physical_image.jpg?raw=true) for the code and implement them in the **Arduino IDE
 **
 
 ## Results
