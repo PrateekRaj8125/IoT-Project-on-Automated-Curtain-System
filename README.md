@@ -8,10 +8,11 @@ To design and implement a voice-activated automatic curtain mechanism that can o
 2. L293D Motor Driver (4-channel)
 3. 12V 5RPM DC Motor
 4. Breadboard
-5. Jumper wires
+5. Jumper wires(M-M & M-F)
 6. Power supply (12V for the motor)
 7. Smartphone with Google Assistant
 8. Sinric Pro account
+9. Pulley Wheel(s)
 
 ## Software Required
 1. Arduino IDE with ESP32 board support
