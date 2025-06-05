@@ -3,15 +3,15 @@
 #include <SinricProSwitch.h>
 
 // Wi-Fi Credentials
-#define WIFI_SSID "Wifi ka bill tera baap bharega"
-#define WIFI_PASS "12345678"
+#define WIFI_SSID "[Your WIFI ID]"
+#define WIFI_PASS "[Your WIFI Password]"
 
 // Sinric Pro Credentials
-#define APP_KEY "e0e34797-5836-4310-87b3-77e501201809"         // Get from Sinric Pro dashboard
-#define APP_SECRET "5f8f0eb9-17ce-4f3c-a34a-1fc4d2af96bb-af2a3ade-4e6f-4b44-9967-bdc8f1f1db8b"   // Get from Sinric Pro dashboard
-#define DEVICE_ID_OPEN "67f4e1b58ed485694c0dfffc"  // Device ID for Open Curtain command
-#define DEVICE_ID_CLOSE "67f4e3df947cbabd20f2ac35"  // Device ID for Close Curtain command
-#define DEVICE_ID_STOP "67f4e426947cbabd20f2ad13"  // Device ID for Motor Off command
+#define APP_KEY "[]"         // Get from Sinric Pro dashboard
+#define APP_SECRET "[]"   // Get from Sinric Pro dashboard
+#define DEVICE_ID_OPEN "[]"  // Device ID for Open Curtain command
+#define DEVICE_ID_CLOSE "[]"  // Device ID for Close Curtain command
+#define DEVICE_ID_STOP "[]"  // Device ID for Motor Off command
 
 // Motor Driver Pins
 #define IN1 26  // L293D IN1 connected to ESP32 GPIO27
