@@ -89,7 +89,7 @@ This setup allows the ESP32 to control both the direction and speed of the DC mo
 3. Test voice commands for device control
 
 ## Code Implementation
-Use the file available in Repository name [IoT Project](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/blob/main/IoT_Project/IoT_Project.ino) for the code and implement them in the **Arduino IDE**
+Use the file available in Repository name [IoT Project on Automated Curtain System](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/blob/main/IoT_Project/IoT_Project.ino) for the code and implement them in the **Arduino IDE**
 
 ## Results
 When properly implemented, the system enables:
