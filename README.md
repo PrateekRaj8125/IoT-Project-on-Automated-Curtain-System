@@ -1,4 +1,4 @@
-# IoT-Project-on-Automated-Curtain-System
+# IoT Project on Automated Curtain System
 
 ## Aim
 To design and implement a voice-activated automatic curtain mechanism that can open and close curtains using Google Assistant voice commands via the Sinric Pro platform.
