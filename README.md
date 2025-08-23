@@ -100,7 +100,7 @@ When properly implemented, the system enables:
 3. The 5RPM motor provides smooth, controlled movement suitable for curtain applications, with sufficient torque to handle the weight of standard curtains.
 ---
 
-## 📜 Code of Conduct  
+## Code of Conduct  
 **IoT Project on Automated Curtain System**  
 
 This project aims to create a voice-activated curtain system using ESP32, Sinric Pro, and Google Assistant.  
