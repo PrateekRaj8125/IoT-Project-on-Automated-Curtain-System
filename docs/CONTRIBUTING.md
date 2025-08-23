@@ -52,15 +52,14 @@ You can contribute in several ways:
 
 ```bash
     git checkout -b feature/your-feature-name
+```
 
 - Write clear commit messages:
 
 ```txt
-
   feat: add PWM control for smoother curtain movement
   fix: resolved wiring bug in L293D driver section
   docs: update setup instructions
-
 ```
 
 ---
