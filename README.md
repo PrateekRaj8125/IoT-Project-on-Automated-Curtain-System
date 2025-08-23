@@ -98,3 +98,69 @@ When properly implemented, the system enables:
    - "*Hey Google, turn on Close Curtain*" to close curtains
 2. The ESP32 receives these commands through the Sinric Pro platform and controls the DC motor via the L293D driver to perform the requested action.
 3. The 5RPM motor provides smooth, controlled movement suitable for curtain applications, with sufficient torque to handle the weight of standard curtains.
+---
+
+# 📜 Code of Conduct  
+**IoT Project on Automated Curtain System**  
+
+This project aims to create a voice-activated curtain system using ESP32, Sinric Pro, and Google Assistant.  
+To ensure smooth collaboration, safety, and responsible usage, all contributors and users are expected to follow this Code of Conduct.  
+
+
+
+## 1. 🤝 Respect and Collaboration
+- Treat all contributors, mentors, and peers with respect.  
+- Share knowledge openly and support fellow teammates.  
+- Accept constructive criticism and focus on problem-solving.  
+- Acknowledge others’ contributions when using or modifying their work.  
+
+
+
+## 2. 🔌 Safety Guidelines
+- Always disconnect power before making hardware changes.  
+- Double-check wiring connections to prevent short circuits or damage.  
+- Use insulated jumper wires and ensure proper grounding.  
+- Do not exceed the rated voltage/current of components.  
+- Test with caution when working with mains electricity (if integrated with home wiring).  
+
+
+
+## 3. 🌐 Ethical Usage
+- This project is intended for educational and personal smart home applications only.  
+- Do not misuse the system to invade privacy or control devices without consent.  
+- Respect intellectual property by giving proper credit when sharing or modifying code/designs.  
+- Do not commercialize the project without permission from original contributors.  
+
+
+
+## 4. 💻 Contribution Standards
+- Write clean, well-documented code with comments for clarity.  
+- Follow consistent naming conventions and coding practices.  
+- Submit contributions via pull requests with clear descriptions.  
+- Test your code and document changes before submission.  
+- Report issues and bugs responsibly using the repository’s issue tracker.  
+
+
+
+## 5. 🔐 Data Privacy
+- Do not share your Sinric Pro API keys, secrets, or device IDs publicly.  
+- Keep WiFi credentials secure and never hard-code personal data in public repositories.  
+- If using Google Assistant integration, ensure that voice data remains private and secure.  
+
+
+
+## 6. 🌍 Community Conduct
+- Be inclusive—welcome beginners and experienced contributors alike.  
+- Avoid offensive, discriminatory, or inappropriate behavior.  
+- Help maintain a friendly environment in discussions, both online and offline.  
+
+
+
+## 7. ✅ Accountability
+- Violations of this Code of Conduct may result in restricted collaboration privileges.  
+- Severe breaches (e.g., deliberate hardware damage, data misuse, or harassment) will not be tolerated.  
+- Everyone is responsible for maintaining a professional and respectful project environment.  
+
+
+
+By participating in this project, you agree to uphold this **Code of Conduct** and contribute to a safe, ethical, and collaborative learning experience.  
