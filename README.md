@@ -100,7 +100,7 @@ When properly implemented, the system enables:
 3. The 5RPM motor provides smooth, controlled movement suitable for curtain applications, with sufficient torque to handle the weight of standard curtains.
 ---
 
-# 📜 Code of Conduct  
+## 📜 Code of Conduct  
 **IoT Project on Automated Curtain System**  
 
 This project aims to create a voice-activated curtain system using ESP32, Sinric Pro, and Google Assistant.  
@@ -108,7 +108,7 @@ To ensure smooth collaboration, safety, and responsible usage, all contributors 
 
 
 
-## 1. 🤝 Respect and Collaboration
+### 1. 🤝 Respect and Collaboration
 - Treat all contributors, mentors, and peers with respect.  
 - Share knowledge openly and support fellow teammates.  
 - Accept constructive criticism and focus on problem-solving.  
@@ -116,7 +116,7 @@ To ensure smooth collaboration, safety, and responsible usage, all contributors 
 
 
 
-## 2. 🔌 Safety Guidelines
+### 2. 🔌 Safety Guidelines
 - Always disconnect power before making hardware changes.  
 - Double-check wiring connections to prevent short circuits or damage.  
 - Use insulated jumper wires and ensure proper grounding.  
@@ -125,7 +125,7 @@ To ensure smooth collaboration, safety, and responsible usage, all contributors 
 
 
 
-## 3. 🌐 Ethical Usage
+### 3. 🌐 Ethical Usage
 - This project is intended for educational and personal smart home applications only.  
 - Do not misuse the system to invade privacy or control devices without consent.  
 - Respect intellectual property by giving proper credit when sharing or modifying code/designs.  
@@ -133,7 +133,7 @@ To ensure smooth collaboration, safety, and responsible usage, all contributors 
 
 
 
-## 4. 💻 Contribution Standards
+### 4. 💻 Contribution Standards
 - Write clean, well-documented code with comments for clarity.  
 - Follow consistent naming conventions and coding practices.  
 - Submit contributions via pull requests with clear descriptions.  
@@ -142,21 +142,21 @@ To ensure smooth collaboration, safety, and responsible usage, all contributors 
 
 
 
-## 5. 🔐 Data Privacy
+### 5. 🔐 Data Privacy
 - Do not share your Sinric Pro API keys, secrets, or device IDs publicly.  
 - Keep WiFi credentials secure and never hard-code personal data in public repositories.  
 - If using Google Assistant integration, ensure that voice data remains private and secure.  
 
 
 
-## 6. 🌍 Community Conduct
+### 6. 🌍 Community Conduct
 - Be inclusive—welcome beginners and experienced contributors alike.  
 - Avoid offensive, discriminatory, or inappropriate behavior.  
 - Help maintain a friendly environment in discussions, both online and offline.  
 
 
 
-## 7. ✅ Accountability
+### 7. ✅ Accountability
 - Violations of this Code of Conduct may result in restricted collaboration privileges.  
 - Severe breaches (e.g., deliberate hardware damage, data misuse, or harassment) will not be tolerated.  
 - Everyone is responsible for maintaining a professional and respectful project environment.  
