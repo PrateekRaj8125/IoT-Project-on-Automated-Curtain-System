@@ -17,7 +17,7 @@ We take security issues seriously.
 If you discover a vulnerability in the **IoT Automated Curtain System**, please follow these steps:
 
 1. **Do not** publicly disclose the issue until it has been reviewed and patched.
-2. Report the vulnerability by creating a **[GitHub Security Advisory](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/security/advisories)** or by emailing **[prateek.raj.indt@gmail.com](mailto:prateek.raj.indt@gmail.com)** (replace with your preferred contact).
+2. Report the vulnerability by creating a **[GitHub Security Advisory](https://github.com/PrateekRaj8125/IoT-Project-on-Automated-Curtain-System/security/advisories)** or by emailing **[prateek.raj.indt@gmail.com](mailto:prateek.raj.indt@gmail.com)**.
 3. Provide detailed information:
    - Steps to reproduce the issue
    - Potential impact of the vulnerability
